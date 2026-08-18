@@ -1,6 +1,7 @@
 package DeliverySystem;
 
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
         var ship= new Shipment("Ken jordain","314 Vienna Terrace","MacBook Pro");
         var truck =new TruckDelivery(ship,60);
